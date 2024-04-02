@@ -15,6 +15,8 @@ BriefSolicode is a sophisticated web application meticulously crafted to streaml
 
 ### Trainer Dashboard
 ![Trainer Dashboard](Images/Trainer%20Dashboard.PNG)
+![Trainer Dashboard](Images/Trainer%20edit.PNG)
+
 
 
 ### Learner Dashboard
